@@ -1,0 +1,16 @@
+{
+  "name": "dsapps/util_libs",
+  "type": "codeigniter-module",
+  "authors": [
+    {
+      "name": "DS Aplicativos",
+      "email": "contato@dsaplicativos.com.br",
+      "homepage": "https://dsaplicativos.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.7",
+    "composer/installers": "~1.0"
+  }
+}
