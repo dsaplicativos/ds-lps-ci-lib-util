@@ -1,6 +1,6 @@
 {
   "name": "dsapps/util_libs",
-  "type": "codeigniter-module",
+  "type": "codeigniter-library",
   "authors": [
     {
       "name": "DS Aplicativos",
